@@ -11,7 +11,7 @@
 
   <ItemGroup>
     <Folder Include="Views\CaptureIm\" />
-    <Folder Include="wwwroot\Files\Photos\" />
+    <Folder Include="wwwroot\files\photos\" />
   </ItemGroup>
 
   <ItemGroup>
